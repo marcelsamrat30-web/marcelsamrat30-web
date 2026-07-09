@@ -54,7 +54,7 @@ Développer des solutions numériques modernes, intuitives et utiles tout en am�
 
 ## 📫 Me contacter
 
-📧 Email : ton-email@example.com
+📧 Email : Marcelsamrat30@gmail.com
 
 💼 LinkedIn : ajoute ton lien
 
