@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Marcel Koffi Amoussou
 
-<!--
-**marcelsamrat30-web/marcelsamrat30-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Développeur Full Stack
 
-Here are some ideas to get you started:
+Je suis un développeur passionné par la création d'applications web modernes et performantes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je travaille principalement avec Laravel, PHP, Flutter, WordPress et MySQL.
+
+---
+
+## 🚀 Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- Laravel
+- Flutter
+- WordPress
+- Tailwind CSS
+- MySQL
+- Git & GitHub
+
+---
+
+## 📚 En cours d'apprentissage
+
+- Flutter avancé
+- REST API
+- Docker
+- Clean Architecture
+
+---
+
+## 📌 Mes projets
+
+🏨 Système de réservation d'hôtel
+
+🛒 Site E-commerce Laravel
+
+🌐 Portfolio professionnel
+
+📱 Applications Flutter
+
+💼 Sites WordPress
+
+---
+
+## 🎯 Objectif
+
+Développer des solutions numériques modernes, intuitives et utiles tout en améliorant continuellement mes compétences.
+
+---
+
+## 📫 Me contacter
+
+📧 Email : ton-email@example.com
+
+💼 LinkedIn : ajoute ton lien
+
+🌍 Portfolio : bientôt disponible
+
+Merci de visiter mon profil GitHub !
