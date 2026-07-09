@@ -56,7 +56,6 @@ Développer des solutions numériques modernes, intuitives et utiles tout en am�
 
 📧 Email : Marcelsamrat30@gmail.com
 
-💼 LinkedIn : ajoute ton lien
 
 🌍 Portfolio : bientôt disponible
 
